@@ -8,4 +8,3 @@ do
 	mv $file $new_fname;
 	echo $?
 done
-

@@ -1,0 +1,10 @@
+  PID  PPID CMD                         %MEM %CPU
+ 2946     1 /opt/google/chrome/chrome    1.3  0.6
+ 2443  1952 /usr/bin/gnome-shell         1.3  2.6
+ 2906  2713 /usr/share/skypeforlinux/sk  0.9  0.0
+17910  2960 /opt/google/chrome/chrome -  0.8  0.1
+22599  2960 /opt/google/chrome/chrome -  0.8  1.6
+ 3234  2960 /opt/google/chrome/chrome -  0.8  0.0
+18380  2960 /opt/google/chrome/chrome -  0.8  0.1
+17491  2960 /opt/google/chrome/chrome -  0.8  0.1
+22715  2960 /opt/google/chrome/chrome -  0.8  1.6
